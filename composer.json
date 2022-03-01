@@ -1,0 +1,16 @@
+{
+  "name": "drupal/gpg_encrypt",
+  "description": "Provides an injectable service to provide GPG encryption",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Pream Totaram",
+      "email": "pream@preamtotaram.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-gnupg": "*"
+  }
+}
